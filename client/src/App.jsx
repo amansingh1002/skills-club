@@ -252,7 +252,7 @@ const tracks = [
   }
 ];
 
-const qualifications = ["BA", "BSc", "BCom", "MA", "MSc", "MCom"];
+const qualifications = ["BA", "BSc", "BCom", "MA", "MSc", "MCom" , "BBA", "BCA", "BTech", "MTech", "MBA", "MCA"];
 
 function App() {
   const [menuOpen, setMenuOpen] = useState(false);

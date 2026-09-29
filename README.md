@@ -43,9 +43,9 @@ Open the Vite URL shown in the terminal.
 Example body:
 ```json
 {
-  "name": "Aman",
-  "email": "aman@example.com",
-  "qualification": "BSc",
+  "name": "Aman Singh",
+  "email": "amansingh83779@gmail.com",
+  "qualification": "B.tech",
   "interest": "Career clarity"
 }
 ```
