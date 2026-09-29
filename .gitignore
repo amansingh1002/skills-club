@@ -1,0 +1,8 @@
+.env client -
+VITE_API_URL=http://localhost:5001
+
+.envserver -
+PORT=5001
+MONGODB_URI=mongodb+srv://aman9999887325_db_user:KTZ5yhwKHa7G9DeL@cluster0.2auccdh.mongodb.net/?appName=registrations
+CLIENT_URL=http://localhost:5173
+
